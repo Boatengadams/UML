@@ -1,3 +1,4 @@
+// Question: How can a rectangle class model width and height and calculate area and perimeter?
 package OOP;
 // UML => Unified Model Languange
 // use to create diagrams
